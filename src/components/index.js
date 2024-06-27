@@ -1,0 +1,5 @@
+export * from "./About"
+export * from "./Skills"
+export * from "./Exp"
+export * from "./PicwShad"
+export * from "./Upworkbox"
