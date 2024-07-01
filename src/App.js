@@ -1,7 +1,9 @@
 import "./App.css";
-import { About, Skills, Exp } from "./components";
+import { About, Skills, Exp , Contact} from "./components";
+
 import Main from "./components/Main.js";
 import { Work } from "./components/Work.js";
+
 
 function App() {
   return (
@@ -11,6 +13,7 @@ function App() {
       <Skills />
       <Exp />
       <Work />
+      <Contact/>
     </div>
   );
 }
